@@ -206,25 +206,4 @@ Daniel Ahmed
 
 ---
 
-> Built with ❤️ using Laravel, Inertia, React, and TypeScript.
-
-```
-
----
-
-## ✅ Notes
-
-✅ Clean modular structure  
-✅ Updated for **Laravel 12**  
-✅ Includes UML diagram in Mermaid syntax (easy for GitHub to render)  
-✅ Matches your existing Student repo *style*, but improved and polished  
-
----
-
-If you tell me:
-
-✅ Your **exact folder structure**  
-✅ Any **specific routes or controllers**  
-
-I can customize the README even more for you!
-```
+> Built with ❤️ using Laravel, Inertia, React, 
