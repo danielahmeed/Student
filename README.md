@@ -4,7 +4,7 @@ Here’s a detailed `README.md` suited for your **Student-TaskManager** project 
 
 # 📝 Student TaskManager
 
-A **Laravel 11 + Inertia.js + React (JSX) + TanStack Query** CRUD application for managing students and tasks with modal dialogues powered by TailwindCSS.
+A **Laravel 12+Inertia.js + React (JSX) + TanStack Query** CRUD application for managing students and tasks with modal dialogues powered by TailwindCSS.
 
 ---
 
